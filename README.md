@@ -15,11 +15,9 @@
   
   Ordinary linear regression tries to find coefficients that make predictions close to the actual target values:
   
-  # #Plain Text
   y = b0 + b1*x1 + b2*x2 + ... + bk*xk
   LASSO adds a penalty based on the absolute values of the coefficients:
   
-  ## Plain Text
   LASSO cost = prediction error + lambda * sum of absolute coefficients
   
   The penalty encourages unnecessary coefficients to become zero. When a coefficient becomes zero, the corresponding feature is not used by the model. This is why LASSO can perform feature selection as well as prediction.
