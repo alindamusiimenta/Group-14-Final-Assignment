@@ -1,0 +1,6 @@
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/lasso_regression.dir
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/lasso_example.dir
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/lasso_tests.dir
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/test.dir
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/edit_cache.dir
+C:/Users/KALID/Desktop/wok/lasso-regression-week-01/build/CMakeFiles/rebuild_cache.dir
